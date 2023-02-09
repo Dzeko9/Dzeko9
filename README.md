@@ -28,8 +28,8 @@
 
 <br>
 
-![](https://github.com/jhpark9007/github-stats-transparent/blob/output/generated/overview.svg)
-![](https://github.com/jhpark9007/github-stats-transparent/blob/output/generated/languages.svg)
+![](https://github.com/Dzeko9/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/Dzeko9/github-stats-transparent/blob/output/generated/languages.svg)
 
 
 </div>
